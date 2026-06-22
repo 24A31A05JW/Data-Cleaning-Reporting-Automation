@@ -1,17 +1,24 @@
-Sales & Revenue Analysis Dashboard
-An interactive Power BI dashboard developed using the Superstore dataset to analyze sales performance, revenue trends, customer activity, and regional business insights.
+Data Cleaning & Reporting Automation
+Overview
+This project automates data cleaning and reporting workflows using Python. It processes raw datasets, removes duplicates, handles missing values, and generates automated reports with visual summaries.
 
 Features
-Total Sales, Profit, Orders, and Customers KPIs
-Sales Trend Analysis
-Top Performing Products
-Regional Sales Comparison
-Category-wise Sales Distribution
-Interactive Filters for Region, Category, and Date
-Tools & Technologies
-Power BI
+Duplicate Removal
+Missing Value Handling
+Automated Report Generation
 Data Visualization
-KPI Tracking
-Business Analytics
-Outcome
-The dashboard helps identify sales trends, top-performing products, and regional performance, enabling data-driven business decisions.
+Workflow Automation
+Technologies Used
+Python
+Pandas
+Matplotlib
+Workflow
+Load Dataset
+Clean Data
+Remove Duplicates
+Handle Missing Values
+Generate Reports
+Create Visual Summaries
+Output Files
+cleaned_report.csv
+sales_summary.png
